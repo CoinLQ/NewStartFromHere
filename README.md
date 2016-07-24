@@ -1,31 +1,24 @@
-## Synopsis
+# 欢迎加入
 
-At the top of the file there should be a short introduction and/ or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
+让大家可以更便捷的加入，LQ事业中。 那都可以做什么呢？
 
-## Code Example
+## 动动手指小任务
+想用在地铁上、等公交的零碎时间做点儿事儿。
+你可以用手机登录我们的小任务平台，用几分钟甚至几秒钟动动手指就可以做贡献。
 
-Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
+## 灌水、吐槽、发评论
+对小任务平台的使用上有什么想法、意见、建议或新点子，都可以提出来。
+发布ISSUE或回复别人发布的ISSUE甚至仅仅浏览大家发布和回复的ISSUE都是更深入的参与。
 
-## Motivation
+## 参与产品的设计与研发
+利用您的专业技能，来直接完成别人好的点子。提供更多的小任务或改进现有的平台，让更多的人可以参与进来。
 
-A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
+### 目前我们的项目有：
+× [切分校对平台](https://github.com/CoinLQ/SegmentationCheck) 
 
-## Installation
+## 算法优化
+如果您更关注核心算法，那可以进入专题项目去深化讨论和优化算法。
 
-Provide code examples and explanations of how to get the project.
-
-## API Reference
-
-Depending on the size of the project, if it is small and simple enough the reference docs can be added to the README. For medium size to larger projects it is important to at least provide a link to where the API reference docs live.
-
-## Tests
-
-Describe and show how to run the tests with code examples.
-
-## Contributors
-
-Let people know how they can dive into the project, include important links to things like issue trackers, irc, twitter accounts if applicable.
-
-## License
-
-A short snippet describing the license (MIT, Apache, etc.)
+### 目前我们的专题有：
+× [古籍汉字切分算法研究](https://github.com/CoinLQ/GuJi_Repository）
+× [文本标记研究]（#）
