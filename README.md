@@ -14,11 +14,11 @@
 利用您的专业技能，来直接完成别人好的点子。提供更多的小任务或改进现有的平台，让更多的人可以参与进来。
 
 ### 目前我们的项目有：
-× [切分校对平台](https://github.com/CoinLQ/SegmentationCheck) 
+- [切分校对平台](https://github.com/CoinLQ/SegmentationCheck) 
 
 ## 算法优化
 如果您更关注核心算法，那可以进入专题项目去深化讨论和优化算法。
 
 ### 目前我们的专题有：
-× [古籍汉字切分算法研究](https://github.com/CoinLQ/GuJi_Repository）
-× [文本标记研究]（#）
+- [古籍汉字切分算法研究](https://github.com/CoinLQ/GuJi_Repository）
+- [文本标记研究]（ ）
