@@ -20,5 +20,5 @@
 如果您更关注核心算法，那可以进入专题项目去深化讨论和优化算法。
 
 ### 目前我们的专题有：
-- [古籍汉字切分算法研究](https://github.com/CoinLQ/GuJi_Repository）
-- [文本标记研究]（ ）
+- [古籍汉字切分算法研究](https://github.com/CoinLQ/GuJi_Repository)
+- [文本标记研究]()
